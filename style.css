@@ -225,7 +225,7 @@ section {
 
 #hero {
 	min-height: 100vh;
-	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.02)), url(Img/Hero3.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.02)), url(Img/Hero2.png);
 	background-position: center;
 	background-size: cover;
 	display: grid;
